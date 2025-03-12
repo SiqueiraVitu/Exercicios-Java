@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Ex005 {
     public static void main(String[] args) {
-        //Faça um programa em Java que leia as duas notas de um aluno em uma matéria e
-        //mostre na tela a sua média na disciplina.
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite sua nota: ");
