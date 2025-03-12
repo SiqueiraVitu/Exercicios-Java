@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Ex003 {
     public static void main(String[] args) {
-        //programa que leia o nome e o salário de um funcionário, mostrando no final uma
-        //mensagem.
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Digite seu nome: ");
