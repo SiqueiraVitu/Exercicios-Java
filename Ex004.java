@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Ex004 {
     public static void main(String[] args) {
-        //Desenvolva um programa em Java que leia dois números inteiros e mostre o somatório
-        //entre eles.
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite um numero: ");
